@@ -1,7 +1,7 @@
 # point_proj_sls_calib
-A flexible calibration code for Structured-light systems consisting of a dot projector and a camera. The segmentation of the imaged structured-light pattern is not included. Dot extraction (based on color thresholding or other technique..) form calibration images should be performed before using this code.
+This repo is to give "a flexible calibration for Structured-light systems consisting of a dot projector and a camera". The segmentation of the imaged structured-light pattern is not included. Dot extraction (based on color thresholding or other technique..) from calibration images should be performed before using this code.
 
-This code corresponding to research work published in:
+This code corresponding to the research work published in:
 
 Ben-Hamadou, A., Soussen, C., Daul, C., Blondel, W., & Wolf, D. (2013). Flexible calibration of structured-light systems projecting point patterns. Computer Vision and Image Understanding, 117(10), 1468-1481.
 
